@@ -1,0 +1,11 @@
+.main{
+        display: none;
+    }
+@media only screen and (max-width: 770px){
+    .img{
+        display: none;
+    }
+    .main{
+        display: block;
+    }
+}
